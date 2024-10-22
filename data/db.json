@@ -1,0 +1,32 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phoneNumber": "1234567890",
+        "bookID": "B001",
+        "bookName": "JavaScript: The Good Parts",
+        "bookAuthorName": "Douglas Crockford"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phoneNumber": "0987654321",
+        "bookID": "B002",
+        "bookName": "Eloquent JavaScript",
+        "bookAuthorName": "Marijn Haverbeke"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "phoneNumber": "1112223333",
+        "bookID": "B003",
+        "bookName": "You Don’t Know JS",
+        "bookAuthorName": "Kyle Simpson"
+      }
+    ]
+  }
+  
